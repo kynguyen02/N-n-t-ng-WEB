@@ -58,6 +58,17 @@ header {
     height: auto;
 }
 
+.zoom {
+    transition: transform .2s;
+    width: 190px;
+    height: auto;
+    margin: 0 auto;
+}
+.zoom:hover {
+    transform: scale(1.5);
+    box-shadow: 5px 5px 5px 5px #039047;
+}
+
 /*VSATTP*/
 .vsattp {
     width: 100%;
