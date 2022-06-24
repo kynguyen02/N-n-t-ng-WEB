@@ -22,7 +22,42 @@ button.btn.btn-primary {
     border: none;
 }
 
+body {
+        width: 100%;
+        height: auto;
+        background-image: url(/assets/img/bgr-image.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%; 
+}
+
 /* FOOTER */
 footer {
     width: 800px;
+    margin-top: 36px;
+    margin: auto;
+    background-color: beige;
+}
+
+.dn {
+    text-align: center;
+    color: #039047;
+    margin: 36px 0px 0px 0px;
+}
+
+.chinhsua {
+    width: 700px;
+    margin: auto;
+}
+
+.ad {
+    width: 700px;
+}
+
+button.btn.btn-primary.btn-sm {
+    margin-bottom: 16px;
+}
+
+.diachi {
+    display: flex;
+    justify-content: space-between;
 }
