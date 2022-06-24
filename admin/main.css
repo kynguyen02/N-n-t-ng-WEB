@@ -1,0 +1,28 @@
+body {
+    background-image: url(/assets/img/bgr-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.dn {
+    text-align: center;
+    color: #039047;
+    margin-top: 36px;
+}
+
+.sumit {
+    width: 600px;
+    display: flex;
+    height: 300px;
+    margin: auto;
+    background-color: #039047;
+}
+
+form {
+    width: 500px;
+    margin: auto;
+}
+
+.form-label {
+    color: white;
+}
